@@ -1,0 +1,5 @@
+main: q2p.beefthrower.BeefThrower
+name: BeefThrower
+version: 1.0
+author: q2p
+description: Make pigs go explode with beef
